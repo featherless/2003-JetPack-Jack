@@ -6,6 +6,10 @@ JetPack Jack was born out of a simple idea: everything in the game would be hand
 
 ![Concept](https://raw.githubusercontent.com/featherless/2003-JetPack-Jack/master/videos/preview.gif)
 
+## Music
+
+Listen to the [Main Theme Song on Soundcloud](https://soundcloud.com/featherless-digital-creative-history/2003-jetpack-jack).
+
 ## Art
 
 All art was hand-drawn by Josh Rodasti. All rights reserved.
