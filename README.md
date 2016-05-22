@@ -4,6 +4,18 @@
 
 JetPack Jack was born out of a simple idea: everything in the game would be hand-drawn!
 
+Originally posted on TheJeffFiles.com:
+
+> Creators: Jeff Verkoeyen (Programmer), Josh Rodasti (Artist/Composer)
+> 
+> Production Time: December, 2002 through January, 2003
+> 
+> Genre: Platform
+> 
+> Gameplay: JetPack Jack was the first big project I worked on once I learned OpenGL. The game's idea was born in a barber shop when I was getting my hair cut, and when we got back we started working on the game right away. By the end of that weekend we had the engine working so you could jump around with Jack and move across the paralaxing level. The game itself isn't very well optimized and isn't frame limited at all, so it will either run too fast or too slow, or if you're lucky will run just as intended. To play JetPack Jack, press the left and right arrow keys to move left and right, up to jump in the air, and spacebar to shoot your missiles.
+>
+> Notes: This was the first full OpenGL game that I ever created. Included with it is completely hand-drawn art by Josh Rodasti along with all of the music composed by him.
+
 ![Concept](https://raw.githubusercontent.com/featherless/2003-JetPack-Jack/master/videos/preview.gif)
 
 ## Music
