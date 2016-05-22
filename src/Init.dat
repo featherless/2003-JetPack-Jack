@@ -1,0 +1,23 @@
+INIT FILE FOR JETPACK JACK
+
+CURRENT_VERSION JetPack Jack v0.8a
+
+JetPack Jack was created by Jeff Verkoeyen and Josh Rodasti
+Only edit this file where it says you are allowed to
+
+SCREENSIZEX 1024
+SCREENSIZEY 768
+SCREENBITS 16
+
+You may change the above numbers, but not the text, the allowed
+screen sizes are 1024x768 16, 1024x768 32, 800x600 16, 800x600 32, 640x480 16, 640x480 32
+
+FULLSCREEN true
+Fullscreen value is true or false
+
+GAMESPEED 3
+Game speed can be from 0-5, 5 being slowest, 0 being fastest
+
+Fullscreen value is true or false
+
+JetPack Jack is a production of the IVGDA.
