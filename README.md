@@ -6,6 +6,14 @@ JetPack Jack was born out of a simple idea: everything in the game would be hand
 
 ![Concept](https://raw.githubusercontent.com/featherless/2003-JetPack-Jack/master/videos/preview.gif)
 
+## Art
+
+All art was hand-drawn by Josh Rodasti. All rights reserved.
+
+![Concept](https://raw.githubusercontent.com/featherless/2003-JetPack-Jack/master/art/backgrounds.jpg)
+![Concept](https://raw.githubusercontent.com/featherless/2003-JetPack-Jack/master/art/characters.jpg)
+![Concept](https://raw.githubusercontent.com/featherless/2003-JetPack-Jack/master/art/levelpieces.jpg)
+
 # License
 
 All source code is licensed Apache 2.0 unless otherwise noted below:
